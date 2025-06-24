@@ -7,7 +7,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=patelamitn&style=flat-square
 )
 
-- 🔭 I’m currently working on Multidots as Senior WordPress Engineer
 - 👯 I’m looking to collaborate with all WordPress Enthusiasts
 - 🤔 I’m passionate about contributing to WordPress and actively supporting its development.
 - 💬 Ask me about WordPress
